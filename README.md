@@ -37,3 +37,5 @@
 <h2>License</h2>
 
 <p>This program is licensed under the MIT License. See the <code>LICENSE</code> file for more information.</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFE809&width=300&lines=pls+star+%E2%AD%90)](https://git.io/typing-svg)
